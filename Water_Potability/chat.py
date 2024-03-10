@@ -4,7 +4,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.chains import LLMChain
 
 # Define your OpenAI API key
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = ''
 
 # Define the model name you want to use. You can choose between 'gpt-3.5-turbo' and 'gpt-4'.
 model_name = 'gpt-3.5-turbo'
